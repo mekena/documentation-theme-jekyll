@@ -3,7 +3,7 @@ repository: mekena/sacorts
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Department of Courts : Documents
+topnav_title: : LERMA - Department of Courts
 # this appears on the top navigation bar next to the home button
 
 site_title: Department of Courts
