@@ -9,11 +9,11 @@ permalink: mydoc_release_notes_50.html
 folder: mydoc
 ---
 
-## Unique sidebars for each product
+## End Of Time
 
-In previous versions of the theme, I built the theme to generate different outputs for different scenarios based on various filtering attributes that might include product, version, platform, and audience variants.
+The end, as far as it seems away, is right behind us all the time. 
 
-However, this model results in siloed outputs and lots of separate file directories to manage. Instead of having 30 separate sites for your content (or however many variants you might have been producing), in this version of the theme I've moved towards a strategy of having one site with multiple products.
+All that there is is in front, and all that  
 
 For each product, you can associate a unique sidebar with each of the product's pages. This allows you to have all your documentation on one site, but with separate navigation that is tailored to a view of that product.
 
